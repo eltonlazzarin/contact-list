@@ -1,2 +1,2 @@
-# contact-list 
+# contact-list
 SImple Contact List built in Flutter
