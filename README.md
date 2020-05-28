@@ -32,9 +32,9 @@ This project was developed with the following technologies:
 
 - [Flutter](https://github.com/flutter/flutter)
 - [VS Code](https://code.visualstudio.com)
-- [http](https://pub.dev/packages/http)
-- [transparent_image](https://pub.dev/packages/transparent_image)
-- [share](https://pub.dev/packages/share)
+- [sqflite](https://pub.dev/packages/sqflite)
+- [url_launcher](https://pub.dev/packages/url_launcher)
+- [image_picker](https://pub.dev/packages/image_picker)
 
 ## :information_source: How To Use
 
